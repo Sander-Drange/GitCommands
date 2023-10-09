@@ -26,3 +26,17 @@
    ```
    git push -u origin master
    ```
+
+###Adding to master in an existing repo.
+1. Add changes locally:
+   ```
+   git add .
+   ```
+2. Commit the changes:
+   ```
+   git commit -m "(descriptive exp of changes)"
+   ```
+3. Push to master on github:
+   ```
+   git push origin master
+   ```
