@@ -38,5 +38,5 @@
    ```
 3. Push to master on github:
    ```
-   git push origin master
+   git push
    ```
