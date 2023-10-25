@@ -24,8 +24,13 @@
    
 5. Push project from local to external:
    ```
-   git push --set-upstream origin master
+   git push --set-upstream origin master 
    ```
+   or
+   ```
+   git push -u origin master
+   ```
+
 
 ###Adding to master in an existing repo.
 1. Add changes locally:
