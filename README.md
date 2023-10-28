@@ -45,3 +45,8 @@
    ```
    git push
    ```
+
+### removing unwanted file from git.
+```
+git rm --cached - <FileName>
+```
