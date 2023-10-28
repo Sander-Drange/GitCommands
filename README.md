@@ -1,6 +1,6 @@
 # GitCommands
 
-###Create a new git repo with existing code. 
+### Create a new git repo with existing code. 
 
 1. Create a local git repo with:
    ```
@@ -32,7 +32,7 @@
    ```
 
 
-###Adding to master in an existing repo.
+### Adding to master in an existing repo.
 1. Add changes locally:
    ```
    git add .
@@ -46,7 +46,7 @@
    git push
    ```
 
-### removing unwanted file from git.
+### Removing unwanted file from git.
 ```
 git rm --cached - <FileName>
 ```
